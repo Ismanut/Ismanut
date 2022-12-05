@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ismanut (Ismael Póvoas)
+- 👀 I enjoy learning languages and coding
+- 🌱 I’m learning HTML5, Javascript, CSS, SQL and Python
+- 📫 Let's get started! Email: ismanut@gmail.com...
+--->
